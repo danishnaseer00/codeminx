@@ -13,8 +13,9 @@ The notebook walks through setup, training, and evaluation of models with LoRA a
 - Fine-tuning LLMs with **Unsloth**
 - LoRA (Low-Rank Adaptation) integration
 - Efficient training setup for limited compute
-- Step-by-step Jupyter workflow
+- Huggingface Integration
 - Quantization with Lora (Qlora)
+- Step-by-step Jupyter workflow
 
 ---
 
